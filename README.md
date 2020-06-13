@@ -10,7 +10,7 @@ Also, check out larger apps such as
 ## Make-Icons-Swiftly
 An Apple Developer tool to generate app icons and images for iPhone, iPad, Mac, Apple TV, Apple Watch and Car Play
 
-<img src="GitHub-Images/Make-Icons-Swiftly.png" width="300">
+<img src="GitHub-Images/Make-Icons-Swiftly.png" width="600">
  [https://github.com/PepperoniJoe/Make-Icons-Swiftly)
 
 **Author:** \
