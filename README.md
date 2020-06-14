@@ -1,30 +1,30 @@
 # Quickies
-For Apple Developers: Assortment of example apps most of which took a few hours to create.
+For Apple Developers: Assortment of small example apps
 
 ## Twitter News
 
-[TwitterNews](https://github.com/PepperoniJoe/TwitterNews](https://github.com/PepperoniJoe/TwitterNews) - A Twitter News reader created to display the Twitter logo animation.
+[TwitterNews](https://github.com/PepperoniJoe/TwitterNews) - A Twitter News reader created to display the Twitter logo animation.
 
 <img src="GitHub-Images/TwitterNews.gif" width="300"> \
 
 
 ## Animated To Do
 
-[AnimatedToDo](https://github.com/PepperoniJoe/AnimateToDo](https://github.com/PepperoniJoe/AnimateToDo) - An app with a colorful animated list of To Do items
+[AnimatedToDo](https://github.com/PepperoniJoe/AnimateToDo) - An app with a colorful animated list of To Do items
 
 <img src="GitHub-Images/AnimatedToDo.gif" width="300">  \
 
 
 ## Emoji Slot Machine
 
-[EmojiSlotMachine](https://github.com/PepperoniJoe/EmojiSlotMachine](https://github.com/PepperoniJoe/EmojiSlotMachine) - A simple slot machines with emojis and sound effects
+[EmojiSlotMachine](https://github.com/PepperoniJoe/EmojiSlotMachine) - A simple slot machines with emojis and sound effects
 
 <img src="GitHub-Images/EmojiSlotMachine.gif" width="300">  \
 
 
 ## Music With Color
 
-[MusicWithColor](https://github.com/PepperoniJoe/MusicWithColor](https://github.com/PepperoniJoe/MusicWithColor) - Plays music while randomly generating colors and patterns
+[MusicWithColor](https://github.com/PepperoniJoe/MusicWithColor) - Plays music while randomly generating colors and patterns
 
 <img src="GitHub-Images/MusicWithColor.gif" width="300">  \
 
