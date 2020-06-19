@@ -1,5 +1,9 @@
 # Quickies
-For Apple Developers: Assortment of small example apps
+[![Xcode version](https://img.shields.io/badge/xcode-11%20-brightgreen)](https://developer.apple.com/xcode/)
+[![Language](https://img.shields.io/badge/swift-5.0-orange.svg)](https://developer.apple.com/swift)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://mit-license.org)
+
+An assortment of small iOS apps
 
 ## Twitter News
 
@@ -28,7 +32,7 @@ For Apple Developers: Assortment of small example apps
 
 <img src="GitHub-Images/MusicWithColor.gif" width="300">  \
 
-Also, check out Developer Tools such as
+# Also, check out the following iOS developer tools #
 
 ## Make Icons Swiftly
 
