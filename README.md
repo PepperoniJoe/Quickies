@@ -25,6 +25,12 @@ An assortment of small iOS apps
 
 <img src="GitHub-Images/EmojiSlotMachine.gif" width="300">  \
 
+## Flim Flam
+
+[Flim-Flam](https://github.com/PepperoniJoe/Flim-Flam) - A Twitter iOS app that uses the page curl feature
+
+<img src="GitHub-Images/FlimFlam.gif" width="300"> \
+
 
 ## Music With Color
 
