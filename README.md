@@ -9,7 +9,7 @@ An assortment of small iOS apps
 
 [TwitterNews](https://github.com/PepperoniJoe/TwitterNews) - A Twitter News reader created to display the Twitter logo animation.
 
-<img src="GitHub-Images/TwitterNews.gif" width="300"> 
+<img src="GitHub-Images/TwitterNews.gif" width="300">
 
 
 ## Animated To Do
@@ -34,7 +34,7 @@ An assortment of small iOS apps
 
 ## Flim Flam
 
-[Flim-Flam](https://github.com/PepperoniJoe/Flim-Flam) - A Twitter iOS app that uses the page curl feature
+[Flim-Flam](https://github.com/PepperoniJoe/Flim-Flam) - An iOS app that uses the page curl feature
 
 <img src="GitHub-Images/FlimFlam.gif" width="300">
 
