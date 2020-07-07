@@ -14,7 +14,7 @@ An assortment of small iOS apps
 
 ## My Father's Dragon
 
-[TwitterNews](https://github.com/PepperoniJoe/MyFathersDragon) - An iOS app displaying a public domain children's book.
+[MyFathersDragon](https://github.com/PepperoniJoe/MyFathersDragon) - An iOS app displaying a public domain children's book.
 
 <img src="GitHub-Images/MyFathersDragon.gif" width="300">
 
