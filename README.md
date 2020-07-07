@@ -14,7 +14,7 @@ An assortment of small iOS apps
 
 ## My Father's Dragon
 
-[TwitterNews](https://github.com/PepperoniJoe/MyFathersDragon) - A Twitter News reader created to display the Twitter logo animation.
+[TwitterNews](https://github.com/PepperoniJoe/MyFathersDragon) - An iOS app displaying a public domain children's book.
 
 <img src="GitHub-Images/MyFathersDragon.gif" width="300">
 
@@ -28,21 +28,21 @@ An assortment of small iOS apps
 
 ## Animated Logo
 
-[AnimatedLogo](https://github.com/PepperoniJoe/AnimatedLogo) - Experimenting with a 7x7 animated grid
+[AnimatedLogo](https://github.com/PepperoniJoe/AnimatedLogo) - An iOS app displaying a 7x7 animated grid
 
 <img src="GitHub-Images/AnimatedLogo.gif" width="300">
 
 
 ## Emoji Slot Machine
 
-[EmojiSlotMachine](https://github.com/PepperoniJoe/EmojiSlotMachine) - A simple slot machines with emojis and sound effects
+[EmojiSlotMachine](https://github.com/PepperoniJoe/EmojiSlotMachine) - A simple slot machine with emojis and sound effects
 
 <img src="GitHub-Images/EmojiSlotMachine.gif" width="300">  
 
 
 ## Flim Flam
 
-[Flim-Flam](https://github.com/PepperoniJoe/Flim-Flam) - An iOS app that uses the page curl feature
+[Flim-Flam](https://github.com/PepperoniJoe/Flim-Flam) - An iOS app of puzzling questions.
 
 <img src="GitHub-Images/FlimFlam.gif" width="300">
 
