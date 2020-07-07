@@ -1,5 +1,5 @@
 # Quickies
-[![Xcode version](https://img.shields.io/badge/xcode-11%20-brightgreen)](https://developer.apple.com/xcode/)
+[![Xcode version](https://img.shields.io/badge/xcode-12%20-brightgreen)](https://developer.apple.com/xcode/)
 [![Language](https://img.shields.io/badge/swift-5.0-orange.svg)](https://developer.apple.com/swift)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://mit-license.org)
 
@@ -10,6 +10,13 @@ An assortment of small iOS apps
 [TwitterNews](https://github.com/PepperoniJoe/TwitterNews) - A Twitter News reader created to display the Twitter logo animation.
 
 <img src="GitHub-Images/TwitterNews.gif" width="300">
+
+
+## My Father's Dragon
+
+[TwitterNews](https://github.com/PepperoniJoe/MyFathersDragon) - A Twitter News reader created to display the Twitter logo animation.
+
+<img src="GitHub-Images/MyFathersDragon.gif" width="300">
 
 
 ## Animated To Do
@@ -31,6 +38,7 @@ An assortment of small iOS apps
 [EmojiSlotMachine](https://github.com/PepperoniJoe/EmojiSlotMachine) - A simple slot machines with emojis and sound effects
 
 <img src="GitHub-Images/EmojiSlotMachine.gif" width="300">  
+
 
 ## Flim Flam
 
