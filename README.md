@@ -40,9 +40,16 @@ An assortment of small iOS apps
 <img src="GitHub-Images/EmojiSlotMachine.gif" width="300">  
 
 
+## Voices
+
+[Voices](https://github.com/PepperoniJoe/Voices) - Type text and have one of many voices read it back.
+
+<img src="GitHub-Images/Voices.gif" width="300">
+
+
 ## Flim Flam
 
-[Flim-Flam](https://github.com/PepperoniJoe/Flim-Flam) - An iOS app of puzzling questions.
+[Flim-Flam](https://github.com/PepperoniJoe/Flim-Flam) - An app with puzzling questions.
 
 <img src="GitHub-Images/FlimFlam.gif" width="300">
 
