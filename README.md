@@ -49,7 +49,7 @@ An assortment of small iOS apps
 
 ## Hexadecimal Keyboard
 
-[HexadecimalKeyoard](https://github.com/PepperoniJoe/HexadecimalKeyboard) - A custom hexadecimal keyboard that can be added to other apps.
+[HexadecimalKeyboard](https://github.com/PepperoniJoe/HexadecimalKeyboard) - A custom hexadecimal keyboard that can be added to other apps.
 
 <img src="GitHub-Images/HexKeyboard.gif" width="300">
 
