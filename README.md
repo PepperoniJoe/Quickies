@@ -47,6 +47,13 @@ An assortment of small iOS apps
 <img src="GitHub-Images/Voices.gif" width="300">
 
 
+## Hexadecimal Keyboard
+
+[HexadecimalKeyoard](https://github.com/PepperoniJoe/HexadecimalKeyboard) - A custom hexadecimal keyboard that can be added to other apps.
+
+<img src="GitHub-Images/HexKeyboard.gif" width="300">
+
+
 ## Flim Flam
 
 [Flim-Flam](https://github.com/PepperoniJoe/Flim-Flam) - An app with puzzling questions.
