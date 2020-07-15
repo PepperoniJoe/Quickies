@@ -61,6 +61,13 @@ An assortment of small iOS apps
 <img src="GitHub-Images/Calculator.gif" width="300">
 
 
+## US Exchange Rates
+
+[Exchange Rates](https://github.com/PepperoniJoe/ExchangeRates) - US currency exchange rates
+
+<img src="GitHub-Images/ExchangeRates.gif" width="300">
+
+
 ## Flim Flam
 
 [Flim-Flam](https://github.com/PepperoniJoe/Flim-Flam) - An app with puzzling questions.
