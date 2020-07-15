@@ -58,7 +58,7 @@ An assortment of small iOS apps
 
 [Calculator](https://github.com/PepperoniJoe/Calculator) - A colorful calculator app.
 
-<img src="GitHub-Images/Calculator.gif" width="300">
+<img src="GitHub-Images/Calculator.png" width="300">
 
 
 ## US Exchange Rates
@@ -72,14 +72,14 @@ An assortment of small iOS apps
 
 [Flim-Flam](https://github.com/PepperoniJoe/Flim-Flam) - An app with puzzling questions.
 
-<img src="GitHub-Images/FlimFlam.gif" width="300">
+<img src="GitHub-Images/FlimFlam.png" width="300">
 
 
 ## Music With Color
 
 [MusicWithColor](https://github.com/PepperoniJoe/MusicWithColor) - Plays music while randomly generating colors and patterns
 
-<img src="GitHub-Images/MusicWithColor.gif" width="300">  
+<img src="GitHub-Images/MusicWithColor.png" width="300">  
 
 # Also, check out the following iOS developer tools #
 
