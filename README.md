@@ -54,6 +54,13 @@ An assortment of small iOS apps
 <img src="GitHub-Images/HexKeyboard.gif" width="300">
 
 
+## Calculator
+
+[Calculator](https://github.com/PepperoniJoe/Calculator) - A colorful calculator app.
+
+<img src="GitHub-Images/Calculator.gif" width="300">
+
+
 ## Flim Flam
 
 [Flim-Flam](https://github.com/PepperoniJoe/Flim-Flam) - An app with puzzling questions.
