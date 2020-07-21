@@ -3,7 +3,14 @@
 [![Language](https://img.shields.io/badge/swift-5.0-orange.svg)](https://developer.apple.com/swift)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://mit-license.org)
 
-An assortment of small iOS apps
+An assortment of Swift apps
+
+## GIF Player
+
+[GIFPlayer](https://github.com/PepperoniJoe/GIFPlayer) - A Swift app that plays GIF files as animated images.
+
+<img src="GitHub-Images/GifPlayer.gif" width="300">
+
 
 ## Twitter News
 
