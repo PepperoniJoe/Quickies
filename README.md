@@ -19,6 +19,20 @@ An assortment of Swift apps
 <img src="GitHub-Images/TwitterNews.gif" width="300">
 
 
+## Hexadecimal Keyboard
+
+[HexadecimalKeyboard](https://github.com/PepperoniJoe/HexadecimalKeyboard) - A custom hexadecimal keyboard that can be added to other apps.
+
+<img src="GitHub-Images/HexKeyboard.gif" width="300">
+
+
+## US Exchange Rates
+
+[Exchange Rates](https://github.com/PepperoniJoe/ExchangeRates) - US currency exchange rates
+
+<img src="GitHub-Images/ExchangeRates.gif" width="300">
+
+
 ## My Father's Dragon
 
 [MyFathersDragon](https://github.com/PepperoniJoe/MyFathersDragon) - An iOS app displaying a public domain children's book.
@@ -26,18 +40,18 @@ An assortment of Swift apps
 <img src="GitHub-Images/MyFathersDragon.gif" width="300">
 
 
-## Animated To Do
-
-[AnimatedToDo](https://github.com/PepperoniJoe/AnimateToDo) - An app with a colorful animated list of To Do items
-
-<img src="GitHub-Images/AnimatedToDo.gif" width="300">  
-
-
 ## Animated Logo
 
 [AnimatedLogo](https://github.com/PepperoniJoe/AnimatedLogo) - An iOS app displaying a 7x7 animated grid
 
 <img src="GitHub-Images/AnimatedLogo.gif" width="300">
+
+
+## Animated To Do
+
+[AnimatedToDo](https://github.com/PepperoniJoe/AnimateToDo) - An app with a colorful animated list of To Do items
+
+<img src="GitHub-Images/AnimatedToDo.gif" width="300">  
 
 
 ## Emoji Slot Machine
@@ -54,25 +68,11 @@ An assortment of Swift apps
 <img src="GitHub-Images/Voices.gif" width="300">
 
 
-## Hexadecimal Keyboard
-
-[HexadecimalKeyboard](https://github.com/PepperoniJoe/HexadecimalKeyboard) - A custom hexadecimal keyboard that can be added to other apps.
-
-<img src="GitHub-Images/HexKeyboard.gif" width="300">
-
-
 ## Calculator
 
 [Calculator](https://github.com/PepperoniJoe/Calculator) - A colorful calculator app.
 
 <img src="GitHub-Images/Calculator.png" width="300">
-
-
-## US Exchange Rates
-
-[Exchange Rates](https://github.com/PepperoniJoe/ExchangeRates) - US currency exchange rates
-
-<img src="GitHub-Images/ExchangeRates.gif" width="300">
 
 
 ## Flim Flam
