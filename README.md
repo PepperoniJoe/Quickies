@@ -42,7 +42,7 @@ An assortment of Swift apps
 
 ## PetFinder
 
-[GIFPlayer](https://github.com/PepperoniJoe/PetFinder) - A native iOS app for demonstrating REST API calls using tokens, asynchronous communication and a dispatch group.
+[PetFinder](https://github.com/PepperoniJoe/PetFinder) - A native iOS app for demonstrating REST API calls using tokens, asynchronous communication and a dispatch group.
 
 <img src="GitHub-Images/PetFinder.gif" width="300">
 
