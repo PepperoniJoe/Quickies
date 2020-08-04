@@ -40,6 +40,13 @@ An assortment of Swift apps
 <img src="GitHub-Images/MyFathersDragon.gif" width="300">
 
 
+## PetFinder
+
+[GIFPlayer](https://github.com/PepperoniJoe/PetFinder) - A native iOS app for demonstrating REST API calls using tokens, asynchronous communication and a dispatch group.
+
+<img src="GitHub-Images/PetFinder.gif" width="300">
+
+
 ## Animated Logo
 
 [AnimatedLogo](https://github.com/PepperoniJoe/AnimatedLogo) - An iOS app displaying a 7x7 animated grid
