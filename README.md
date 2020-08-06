@@ -43,7 +43,7 @@ Webview, UIView.animate, animations
 
 **Technical Info:**\
 Xcode12 project written in Swift 5 for iOS\
-Inputview, UIKeyInput protocol, Custom delegate/protocol for removing keyboard\
+Inputview, UIKeyInput protocol, custom delegate/protocol for removing keyboard\
 System colors for dark/light modes
 
 ***
@@ -56,8 +56,8 @@ System colors for dark/light modes
 
 **Technical Info:**\
 Xcode12 project written in Swift 5 for iOS 14\
-URLSession, JSONDecoder, Decodable, Date/Calendar components, Timer,\
-Refresh Controls, Tableview, Tableview Cell Styles, Storyboards
+URLSession, JSONDecoder, Decodable, date/calendar components, Timer,\
+refresh controls, tableview, tableview cell styles, storyboards
 
 ***
 
@@ -69,7 +69,7 @@ Refresh Controls, Tableview, Tableview Cell Styles, Storyboards
 
 **Technical Info:**\
 Xcode 12 project written in Swift 5 for iOS 14\
-UIPageViewController
+UIPageViewController, storyboards
 
 ***
 
@@ -82,7 +82,7 @@ UIPageViewController
 **Technical Info:**\
 Xcode11 project written in Swift 5 for iOS\
 REST API with token, Asynchronous communication, DispatchGroup, delegation pattern,\
-URLSession, JSONDecoder, Decodable protocol, Dictionaries, tuples, sorting nested arrays,\
+URLSession, JSONDecoder, Decodable protocol, dictionaries, tuples, sorting nested arrays,\
 UITableView with section detail and section headers
 
 ***
@@ -120,7 +120,7 @@ UIView.animate, CGAffineTransform, spring transitions, array of tuples, color sc
 
 **Technical Info:** \
 Xcode 11 project written in Swift 5 for iOS\
-pickerview, randomization, AVAudioPlayer, cornerRadius\
+pickerview, randomization, AVAudioPlayer, cornerRadius, emojis,\
 traitCollectionDidChange, userInterfaceStyle, UIView.animate
 
 ***
@@ -133,7 +133,7 @@ traitCollectionDidChange, userInterfaceStyle, UIView.animate
 
 **Technical Info:**\
 Xcode11 project written in Swift 5 for iOS\
-AVFoundation, Voice Synthesizer, UIPickerView, UITextView, Popup Keyboard
+AVFoundation, Voice Synthesizer, UIPickerView, UITextView, popup keyboard
 
 ***
 
@@ -145,9 +145,9 @@ AVFoundation, Voice Synthesizer, UIPickerView, UITextView, Popup Keyboard
 
 **Technical Info:**\
 Xcode12 project written in Swift 5 for iOS\
-Delegate Pattern, Protocols, Extensions, Enums, User Defaults, Tuples, Outlet Collections,\
-Functions as Parameters, Number Formatter, Hidden Status Bar, Unit Tests, UI Tests,\
-Presenting/Dismissing of view controllers
+delegate pattern, protocols, extensions, enums, User Defaults, tuples, outlet collections,\
+functions as parameters, number formatter, hidden status bar, Unit Tests, UI Tests,\
+presenting/dismissing view controllers
 
 ***
 
@@ -171,7 +171,7 @@ page view controller, UIView.animate, segue, page curl transitions
 
 **Technical Info:**\
 Xcode 11 project written in Swift 5 for iOS\
-Notification Center, Timer, AVAudioPlayer, CAGradientLayerTypes, Randomization
+Notification Center, Timer, AVAudioPlayer, CAGradientLayerTypes, randomization
 
 ***
 
