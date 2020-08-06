@@ -5,7 +5,9 @@
 
 An assortment of Swift apps
 
-## GIF Player
+***
+
+### GIF Player
 
 [GIFPlayer](https://github.com/PepperoniJoe/GIFPlayer) - A Swift app that plays GIF files as animated images.
 
@@ -21,7 +23,7 @@ Apple Keynote: magic move, rotate, shimmer, bounce, jiggle
 
 ***
 
-## Twitter News
+### Twitter News
 
 [TwitterNews](https://github.com/PepperoniJoe/TwitterNews) - A Twitter News reader created to display the Twitter logo animation.
 
@@ -59,7 +61,7 @@ Refresh Controls, Tableview, Tableview Cell Styles, Storyboards
 
 ***
 
-# My Father's Dragon
+## My Father's Dragon
 
 [MyFathersDragon](https://github.com/PepperoniJoe/MyFathersDragon) - An iOS app displaying a public domain children's book.
 
