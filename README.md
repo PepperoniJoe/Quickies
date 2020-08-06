@@ -19,6 +19,7 @@ data assets, CGImageSourceGetCount, CGImageSourceCreateImageAtIndex\
 UIImage.animatedImage, color assets\
 Apple Keynote: magic move, rotate, shimmer, bounce, jiggle
 
+***
 
 ## Twitter News
 
@@ -30,6 +31,7 @@ Apple Keynote: magic move, rotate, shimmer, bounce, jiggle
 Xcode 11  project written in Swift 5 for iOS\
 Webview, UIView.animate, animations
 
+***
 
 ## Hexadecimal Keyboard
 
@@ -42,6 +44,7 @@ Xcode12 project written in Swift 5 for iOS\
 Inputview, UIKeyInput protocol, Custom delegate/protocol for removing keyboard\
 System colors for dark/light modes
 
+***
 
 ## US Exchange Rates
 
@@ -54,8 +57,9 @@ Xcode12 project written in Swift 5 for iOS 14\
 URLSession, JSONDecoder, Decodable, Date/Calendar components, Timer,\
 Refresh Controls, Tableview, Tableview Cell Styles, Storyboards
 
+***
 
-## My Father's Dragon
+# My Father's Dragon
 
 [MyFathersDragon](https://github.com/PepperoniJoe/MyFathersDragon) - An iOS app displaying a public domain children's book.
 
@@ -65,6 +69,7 @@ Refresh Controls, Tableview, Tableview Cell Styles, Storyboards
 Xcode 12 project written in Swift 5 for iOS 14\
 UIPageViewController
 
+***
 
 ## PetFinder
 
@@ -78,6 +83,7 @@ REST API with token, Asynchronous communication, DispatchGroup, delegation patte
 URLSession, JSONDecoder, Decodable protocol, Dictionaries, tuples, sorting nested arrays,\
 UITableView with section detail and section headers
 
+***
 
 ## Animated Logo
 
@@ -89,6 +95,7 @@ UITableView with section detail and section headers
 Xcode12 project written in Swift 5.3 for iOS 14\
 SpriteKit, SKScene, SKView, SKActions, SKLabelNode, SKNode
 
+***
 
 ## Animated To Do
 
@@ -101,6 +108,7 @@ Xcode 11 project written in Swift 5 for iOS\
 tableView, gradient layers, rounded corners, DispatchQueue, layers\
 UIView.animate, CGAffineTransform, spring transitions, array of tuples, color schemes
 
+***
 
 ## Emoji Slot Machine
 
@@ -113,6 +121,7 @@ Xcode 11 project written in Swift 5 for iOS\
 pickerview, randomization, AVAudioPlayer, cornerRadius\
 traitCollectionDidChange, userInterfaceStyle, UIView.animate
 
+***
 
 ## Voices
 
@@ -124,6 +133,7 @@ traitCollectionDidChange, userInterfaceStyle, UIView.animate
 Xcode11 project written in Swift 5 for iOS\
 AVFoundation, Voice Synthesizer, UIPickerView, UITextView, Popup Keyboard
 
+***
 
 ## Calculator
 
@@ -137,6 +147,7 @@ Delegate Pattern, Protocols, Extensions, Enums, User Defaults, Tuples, Outlet Co
 Functions as Parameters, Number Formatter, Hidden Status Bar, Unit Tests, UI Tests,\
 Presenting/Dismissing of view controllers
 
+***
 
 ## Flim Flam
 
@@ -148,6 +159,7 @@ Presenting/Dismissing of view controllers
 Xcode 12 project written in Swift 5 for iOS 13\
 page view controller, UIView.animate, segue, page curl transitions
 
+***
 
 ## Music With Color
 
@@ -159,6 +171,7 @@ page view controller, UIView.animate, segue, page curl transitions
 Xcode 11 project written in Swift 5 for iOS\
 Notification Center, Timer, AVAudioPlayer, CAGradientLayerTypes, Randomization
 
+***
 
 # Also, check out the following iOS developer tools #
 
