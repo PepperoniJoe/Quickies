@@ -15,10 +15,9 @@ An assortment of Swift apps
 
 **Technical Info:**\
 Xcode12 project written in Swift 5 for iOS\
-GIF files, animation, tap gestures, collection views, tab bar controller\
+GIF files, animation, tap gestures, collection views, tab bar controller, color assets\
 collection view flow layout, imageview.animationImages, storyboard references\
-data assets, CGImageSourceGetCount, CGImageSourceCreateImageAtIndex\
-UIImage.animatedImage, color assets\
+data assets, CGImageSourceGetCount, CGImageSourceCreateImageAtIndex, UIImage.animatedImage\
 Apple Keynote: magic move, rotate, shimmer, bounce, jiggle
 
 ***
