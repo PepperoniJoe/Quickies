@@ -174,6 +174,19 @@ Notification Center, Timer, AVAudioPlayer, CAGradientLayerTypes, randomization
 
 ***
 
+### Photo Metadata
+
+[Photo Metadata](https://github.com/PepperoniJoe/Photo-Metadata) -  An app to read metadata from a selected photo and show the location on a map.
+
+<img src="GitHub-Images/PhotoMetadata.gif" width="300">  
+
+**Technical Info:**\
+Xcode 11 project written in Swift 5 for iOS\
+MapKit, Photos, PHPhotoLibrary.authorizationStatus, UIImagePickerController\
+hybridFlyover, MKCoordinate, MKPointAnnotation, alert
+
+***
+
 # Also, check out the following iOS developer tools #
 
 ### Make Icons Swiftly
