@@ -162,6 +162,18 @@ page view controller, UIView.animate, segue, page curl transitions
 
 ***
 
+### Fitbit Login Example
+
+[FitbitLoginExample](https://github.com/PepperoniJoe/FitbitLoginExample) - An app for logging into Fitbit.
+
+<img src="GitHub-Images/Fitbit.gif" width="300">
+
+**Technical Info:** \
+Xcode 12 project written in SwiftUI for iOS 14\
+Swift 5, SwiftUI, Redirect Scheme, Callback Scheme, SafariServices, AuthenticationServices
+
+***
+
 ### Music With Color
 
 [MusicWithColor](https://github.com/PepperoniJoe/MusicWithColor) - Plays music while randomly generating colors and patterns
