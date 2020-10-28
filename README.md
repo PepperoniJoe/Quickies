@@ -65,7 +65,7 @@ refresh controls, tableview, tableview cell styles, storyboards
 [DynamicMenu](https://github.com/PepperoniJoe/DynamicMenu) - Menu that uses
 UIKit physics engine to move as the device moves.
 
-<img src="GitHub-Images/DynamicMenu.png" width="300">  
+<img src="GitHub-Images/DynamicMenu.gif" width="300">  
 
 **Technical Info:**\
 Xcode 12 project written in Swift 5 for iOS14\
