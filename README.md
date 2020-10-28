@@ -60,6 +60,19 @@ refresh controls, tableview, tableview cell styles, storyboards
 
 ***
 
+### Dynamic Menu
+
+[Photo Metadata](https://github.com/PepperoniJoe/DynamicMenu) -  An app to read metadata from a selected photo and show the location on a map.
+
+<img src="GitHub-Images/DynamicMenu.png" width="300">  
+
+**Technical Info:**\
+Xcode 12 project written in Swift 5 for iOS14\
+UIKit Dynamics, UIDynamicAnimator, behaviors, gravity, collisions,\
+physical characteristics, Core Motion, motion detection, custom Method Chaining
+
+***
+
 ### My Father's Dragon
 
 [MyFathersDragon](https://github.com/PepperoniJoe/MyFathersDragon) - An iOS app displaying a public domain children's book.
