@@ -62,7 +62,7 @@ refresh controls, tableview, tableview cell styles, storyboards
 
 ### Dynamic Menu
 
-[Photo Metadata](https://github.com/PepperoniJoe/DynamicMenu) -  An app to read metadata from a selected photo and show the location on a map.
+[DynamicMenu](https://github.com/PepperoniJoe/DynamicMenu) -  An app to read metadata from a selected photo and show the location on a map.
 
 <img src="GitHub-Images/DynamicMenu.png" width="300">  
 
