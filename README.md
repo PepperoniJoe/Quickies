@@ -62,7 +62,8 @@ refresh controls, tableview, tableview cell styles, storyboards
 
 ### Dynamic Menu
 
-[DynamicMenu](https://github.com/PepperoniJoe/DynamicMenu) -  An app to read metadata from a selected photo and show the location on a map.
+[DynamicMenu](https://github.com/PepperoniJoe/DynamicMenu) - Menu that uses
+UIKit physics engine to move as the device moves.
 
 <img src="GitHub-Images/DynamicMenu.png" width="300">  
 
