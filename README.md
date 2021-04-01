@@ -213,6 +213,30 @@ hybridFlyover, MKCoordinate, MKPointAnnotation, alert
 
 ***
 
+### Beacon
+
+[Beacon](https://github.com/PepperoniJoe/Beacon) - An app that turns an iPhone into an iBeacon
+
+<img src="GitHub-Images/Beacon.png" width="300">
+
+**Technical Info:**\
+Xcode10 project written in Swift 4.2 for iOS 12.4 and later\
+Swift, CoreBluetooth, CoreLocation, UIKit, CAReplicatorLayer
+
+***
+
+### Beacon Detector
+
+[BeaconDetector](https://github.com/PepperoniJoe/BeaconDetector) - A iBeacon detecting app
+
+<img src="GitHub-Images/BeaconDetector.png" width="300">
+
+**Technical Info:**\
+Xcode12 project written in Swift 5 for iOS 14\
+SwiftUI, CoreBluetooth, CoreLocation, AVFoundation
+
+***
+
 # Also, check out the following iOS developer tools #
 
 ### Make Icons Swiftly
