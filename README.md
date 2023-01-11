@@ -239,7 +239,7 @@ SwiftUI, CoreBluetooth, CoreLocation, AVFoundation
 
 ### SwiftUI Property Wrappers
 
-[BeaconDetector](https://github.com/PepperoniJoe/SwiftUIPropertyWrappers) - SwiftUI Property Wrappers examples
+[SwiftPropertyWrappers](https://github.com/PepperoniJoe/SwiftUIPropertyWrappers) - SwiftUI Property Wrappers examples
 
 <img src="GitHub-Images/SPWList.png" width="300">
 
