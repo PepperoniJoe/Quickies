@@ -237,6 +237,18 @@ SwiftUI, CoreBluetooth, CoreLocation, AVFoundation
 
 ***
 
+### SwiftUI Property Wrappers
+
+[BeaconDetector](https://github.com/PepperoniJoe/SwiftUIPropertyWrappers) - SwiftUI Property Wrappers examples
+
+<img src="GitHub-Images/SPWList.png" width="300">
+
+**Technical Info:**\
+Xcode14 project written in Swift 5 for iOS 16\
+SwiftUI
+
+***
+
 # Also, check out the following iOS developer tools #
 
 ### Make Icons Swiftly
